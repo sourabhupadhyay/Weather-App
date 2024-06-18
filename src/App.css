@@ -540,9 +540,11 @@ div#txt {
     margin-bottom: 35px;
     text-align: center;
     width: 100%;
+    margin: 2px;
   }
   div#txt {
     font-size: 30px;
+    margin: -112px;
   }
   .date {
     font-size: 22px;
